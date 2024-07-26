@@ -1,2 +1,2 @@
 # Offline-Password-Authentication-App
- A Windows Forms application demonstrating the implementation of Time-based One-Time Password (TOTP) and HMAC-based One-Time Password (HOTP) authentication mechanisms. The application generates and verifies passwords using TOTP and HOTP algorithms.
+This project demonstrates that computers cannot generate truly random numbers, as they rely on algorithms that can be predicted with sufficient data. It highlights the importance of understanding pseudo-random number generation and its implications for security and encryption.
